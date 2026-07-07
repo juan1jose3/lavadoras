@@ -56,8 +56,7 @@ AEONIX_WEB/
 
 ## 👨‍💻 Autores
 
-Desarrollado por: *[Johan Steven Sarmiento Cruz - Juan Jose Morales Benitez - Juan Esteban Barrantes]*  
-Contacto: [juan.morales-be@uniminuto.edu.co - johan.sarmiento-c@uniminuto.edu.co - juan.barrantes-m@uniminuto.edu.co]
+
 
 ---
 
